@@ -19,6 +19,6 @@
 
 
 
-# But, Why ??
+# But.. But, Why ??
 
-***I'll be making some mind blowing applicaions using this resources. :rocket:***
+***I'll be making some mind blowing applicaions using these resources. :rocket:***
