@@ -11,7 +11,11 @@
 
 ## Send a Pull Request!
 
-***Title of the PR should be strictly `{@github_username}`***
+* **Fork and Clone.**
+* `cd collection`
+* Create a directory named `{@your_github_username}` and under that directory, Add your **Recorded Voice Sample**.
+
+***Note : Title of the PR and name of the voice file should be strictly `{@your_github_username}`*** :+1:
 
 
 ## Join me!
