@@ -1,5 +1,5 @@
-# Audio Collection
-> **Collection of Audio(s)** by **@fossasia** family during **@google Code-In 2017** :musical_note:
+# Capture Voices, Moments!
+> **Collection of Audio(s)** by **@fossasia** family during **@Google Code-In 2017** :musical_note:
 
 ***There are only three easy steps for contributing! :fire:***
 
